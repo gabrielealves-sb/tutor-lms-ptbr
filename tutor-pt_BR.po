@@ -3218,3 +3218,43 @@ msgstr "Recebido"
 #: templates/dashboard/reviews/given-reviews.php:37
 msgid "Given"
 msgstr "Dado"
+
+#: templates/single/course/course-entry-box.php:65
+msgid "Course Progress"
+msgstr "Progresso do Curso"
+
+#: templates/single/course/course-entry-box.php:75
+msgid "Complete"
+msgstr "Completo"
+
+#: templates/single/course/course-entry-box.php:107
+msgid "Start Learning"
+msgstr "Entrar no Curso"
+
+#: templates/single/course/course-entry-box.php:30
+msgid "Last Updated"
+msgstr "Última Atualização"
+
+#: templates/single/course/course-topics.php:28
+msgid "Course Content"
+msgstr "Conteúdo do Curso"
+
+#: templates/single/course/reviews.php:44
+msgid "Student Ratings & Reviews"
+msgstr "Avaliações e Comentários dos Alunos"
+
+#: templates/single/course/reviews.php:50
+msgid "No Review Yet"
+msgstr "Nenhuma Avaliação"
+
+#: templates/single/course/instructors.php:23
+msgid "A course by"
+msgstr "Instrutor do Curso"
+
+#: templates/single/course/lead-info.php:63
+msgid "Categories"
+msgstr "Categorias"
+
+#: templates/single/course/course-target-audience.php:27
+msgid "Audience"
+msgstr "Público Alvo"
